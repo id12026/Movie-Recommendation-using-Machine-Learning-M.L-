@@ -1,30 +1,28 @@
-In this project called Movie Recommendation system using Machine Learning we have generated a Movie Recommendation System by usig the Hollywood Movie Dataset.
+# Movie Recommendation System using Machine Learning  
 
-We have done the another project
+## About the Project  
+This repository includes two significant projects:  
 
-#An Incremental Approach for the Selection of Bias in Recommendation System 
+### 1. Movie Recommendation System (Hollywood Dataset)  
+We have developed a recommendation system using the Hollywood Movie Dataset. The system suggests movies based on user preferences and leverages machine learning techniques for accurate predictions.  
 
+### 2. An Incremental Approach for the Selection of Bias in Recommendation System (Tollywood Dataset)  
+This project focuses on building a recommendation system for the Tollywood Movie Dataset using **Collaborative Filtering** and the **PIP (Proximity, Impact, Popularity) measure**.  
 
-For Tollywood Movie dataset I have done this Recommendation System project using Colloborative Filtering. 
+#### Features:  
+- **Content-Based and Collaborative Filtering Systems**: Implemented to provide personalized recommendations.  
+- **PIP Measure**: Enhances the recommendation accuracy by considering proximity, impact, and popularity.  
+- **Process Workflow**:  
+  - Data Collection  
+  - Data Preparation and Cleaning  
+  - Exploratory Data Analysis (EDA)  
+  - Data Visualizations  
+  - Machine Learning Model Application  
 
-Recommendation-Systems-C.F-
-In this Recommendation Systems Project I have used the Content - Based Systems and Collabarative Filtering Systems. Based on the PIP(Proximity, Impact, Popularity) I have builded the Recommendation System. For Creating this Recommendation Systems Project I have done the --
+## Group Members  
+- **Mohitha Bandi (22WU0105037)**  
+- **Satya Vaishnavi Gumpally (22WU0106017)**  
+- **Hemanth Bandi (22WU0106028)**  
 
-Data Collection
-Data Preparation
-Data Cleaning
-Exploratory Data Analysis(EDA)
-Data Visualizations
-Applied a Machine Learning Model
-Using the Collaborative Filtering and PIP measure. 
-
-#Group Members
-**Mohitha Bandi (22WU0105037)
-Satya Vaishnavi Gumpally (22WU0106017) 
-Hemanth Bandi (22WU0106028) **
-
-Note
+## Note  
 We are in the process of writing a research paper based on this project. As a result, no code or additional details have been shared in this repository. Please stay tuned for updates!
-
-For Tollywood Movie dataset I have done a Recommendation System project using Colloborative Filtering. 
-
