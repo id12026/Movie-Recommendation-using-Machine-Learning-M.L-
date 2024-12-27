@@ -5,6 +5,8 @@ WE HAVE DONE THE TWO PROJECTS
 ### 1. Movie Recommendation System (Hollywood Dataset)  
 We have developed a recommendation system using the Hollywood Movie Dataset. The system suggests movies based on user preferences and leverages machine learning techniques for accurate predictions.  
 
+Kaggle link: https://www.kaggle.com/code/bandimohitha/movie-recommendation-using-m-l
+
 ### 2. An Incremental Approach for the Selection of Bias in Recommendation System (Tollywood Dataset)  
 This project focuses on building a recommendation system for the Tollywood Movie Dataset using **Collaborative Filtering** and the **PIP (Proximity, Impact, Popularity) measure**.  
 
@@ -12,7 +14,7 @@ This project focuses on building a recommendation system for the Tollywood Movie
 - **Content-Based and Collaborative Filtering Systems**: Implemented to provide personalized recommendations.  
 - **PIP Measure**: Enhances the recommendation accuracy by considering proximity, impact, and popularity.  
 - **Process Workflow**:  
-  - Data Collection  
+  - Data Collection using Web Scraping
   - Data Preparation and Cleaning  
   - Exploratory Data Analysis (EDA)  
   - Data Visualizations  
