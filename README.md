@@ -1,7 +1,6 @@
 # Movie Recommendation System using Machine Learning  
 
-## About the Project  
-This repository includes two significant projects:  
+WE HAVE DONE THE TWO PROJECTS
 
 ### 1. Movie Recommendation System (Hollywood Dataset)  
 We have developed a recommendation system using the Hollywood Movie Dataset. The system suggests movies based on user preferences and leverages machine learning techniques for accurate predictions.  
