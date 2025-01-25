@@ -22,7 +22,7 @@ This project focuses on building a recommendation system for the Tollywood Movie
 
 ## Group Members  
 - **Mohitha Bandi (22WU0105037)**  
-- **Satya Vaishnavi Gumpally (22WU0106017)**  
+- **Satya Vaishnavi Gumpally (22WU0106017)**  - @vaishnavi0307
 - **Hemanth Bandi (22WU0106028)**  
 
 ## Note  
